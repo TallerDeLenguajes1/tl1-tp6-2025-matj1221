@@ -1,6 +1,5 @@
 ﻿//Calculadora V1
 using System;
-using System.Security.Claims;
 
 int opc = 0;
 
